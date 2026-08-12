@@ -9,8 +9,7 @@
 
 # GitHub Stats:
 ![](https://github-readme-stats-omega-flame.vercel.app/api?username=x0m4ek&theme=gotham&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-stats-omega-flame.vercel.app/?user=x0m4ek&theme=gotham&hide_border=true)<br/>
-![](https://github-readme-stats-omega-flame.vercel.app/api/top-langs/?username=x0m4ek&theme=gotham&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats-omega-flame.vercel.app/?user=x0m4ek&theme=gotham&hide_border=true)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
